@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.size {
+  width: 500px;
+  height: 500px;
+}
+
+.active {
+  color: red;
+}
+
+.width-select {
+  width: 15%;
+}
+
+.width-buton {
+  width: 8%;
+}
